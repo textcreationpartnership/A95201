@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true relation of the entertainment of my Lord of Essex at Northampton. With the just number of horse and foot that flockt from neighbouring countries to assist his person. Also the relation of 4. Holland ships that purposely arrived thither for to help his Excellency in his pretended proceedings: with just number of men, ammunition and money they brought over. Here is likewise the true relation of Captaine Legs discoveries, who being taken by our men upon condition of free pardon, did divulge all the cavaleers projects and intentions. Shewing how many of them were sent to the Ile of Wight and the Ile of Man, to take away and seize upon the mony pretended for the reliefe of our poore brethren in Ireland. Also the manner of my Lord of Hollands taking a seminary priest amongst the cavaleers, with his confession and examination before my Lord.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95201</idno>
+            <idno type="STC">Wing T2946</idno>
+            <idno type="STC">Thomason E118_20</idno>
+            <idno type="STC">ESTC R21995</idno>
+            <idno type="EEBO-CITATION">99871558</idno>
+            <idno type="PROQUEST">99871558</idno>
+            <idno type="VID">156095</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95201)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156095)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E118[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true relation of the entertainment of my Lord of Essex at Northampton. With the just number of horse and foot that flockt from neighbouring countries to assist his person. Also the relation of 4. Holland ships that purposely arrived thither for to help his Excellency in his pretended proceedings: with just number of men, ammunition and money they brought over. Here is likewise the true relation of Captaine Legs discoveries, who being taken by our men upon condition of free pardon, did divulge all the cavaleers projects and intentions. Shewing how many of them were sent to the Ile of Wight and the Ile of Man, to take away and seize upon the mony pretended for the reliefe of our poore brethren in Ireland. Also the manner of my Lord of Hollands taking a seminary priest amongst the cavaleers, with his confession and examination before my Lord.</title>
+               </titleStmt>
+               <extent>[2], 1, 4-8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Bankes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Septem. 2r. [i.e. Sept. 21, 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Thomason Coll.</note>
+                  <note>Text continuous despite pagination.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term>Holland, Henry Rich, --  Earl of, 1590-1649.</term>
+               <term>Legge,William, 1609?-1670.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156095:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 97 -->
+            <p>The true Relation of the Entertainment of my Lord of <hi>Eſſex</hi> at NORTHAMPTON.</p>
+            <p>With the juſt number of horſe and foot that flockt from Neighbouring Countries to aſſiſt His Perſon.</p>
+            <p>Alſo the Relation of 4. <hi>Holland</hi> Ships that p<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<g ref="char:EOLhyphen"/>poſely arrived thither for to help his Excel<g ref="char:EOLhyphen"/>lency in his pretended proceedings: With juſt number of men, Ammunition and money they brought over.</p>
+            <p>Here is likewiſe the true Relation of Captaine <hi>Legs</hi> diſcoveries, who being taken by our men upon condition of free pardon, did divulge all the Cavaleers projects and intentions.</p>
+            <p>Shewing how many of them were ſent to the Ile of <hi>Wight</hi> and the Ile of <hi>Man,</hi> to take away and ſeize upon the mony pretended for the reliefe of our poore Brethren in <hi>Ireland.</hi> Alſo the manner of my Lord of <hi>Hollands</hi> taking a Semi<g ref="char:EOLhyphen"/>nary Prieſt amongſt the Cavaleers, with his Con<g ref="char:EOLhyphen"/>feſſion and Examination before my Lord.</p>
+            <p>
+               <hi>London,</hi> printed for <hi>Tho. Bankes. Septem.</hi> 2r.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_entertainment">
+            <pb facs="tcp:156095:2"/>
+            <!-- PDF PAGE 98 -->
+            <pb n="1" facs="tcp:156095:2"/>
+            <!-- PDF PAGE 98 -->
+            <head>The true Relation of the Enter<g ref="char:EOLhyphen"/>tainment of my Lord of <hi>Eſſex at Northampton.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Is well knowne that my Lord of <hi>Eſſex</hi> his undertaking ſo pious an imployment doth not a lit<g ref="char:EOLhyphen"/>tle joy the heart of every good affected Subject Chriſtian, yea the whole Kingdome (bearing ſhare of the benefit) may in like manner, or at leaſt wife ought to be aſſiſtants in the ſame; <hi>Northamton<g ref="char:EOLhyphen"/>ſhire</hi> men not being ignorant of ſo great a benefit, having intelligence of my Lords comming thither with about the number of three hundred to meet his Excellencie beſides the Trained Bands, and divers of the Neighbouring people, many for very haſte riding without Saddles, others for joy to be revenged on the Cavaleers (who
+<pb n="4" facs="tcp:156095:3"/>
+               <!-- PDF PAGE 99 -->had robd and pillaged them of all their goods) brought preſents for his Excellen<g ref="char:EOLhyphen"/>cie, but my Lord refuſed them, ſaying, That what he intended was for the pub<g ref="char:EOLhyphen"/>like good of the King, Kingdome, and Par<g ref="char:EOLhyphen"/>liament, and the maintaining of Gods true Religion, and not for any private benefit and gaine of his owne, or any that he expected, alledging that he was ſorry that ſuch occaſion ſhould be given by the Cavaleers, or any other ill-affected perſons, as muſt force him either to draw the Sword, or leave three whole King<g ref="char:EOLhyphen"/>domes to periſh in a mutuall blood; his Lordſhip being brought to the Towne, gathered together his Forces, to ſee his owne ſtrength, which he found to amount (both Horſe and Foot Volunteeres, and thoſe that accompanied him from <hi>London</hi>) to the number of fortie thouſand and up<g ref="char:EOLhyphen"/>ward, to all whom he gave ſtrict charge and command, not to be any way offen<g ref="char:EOLhyphen"/>ſive in their carriage and behaviour to<g ref="char:EOLhyphen"/>wards
+<pb n="5" facs="tcp:156095:3"/>
+               <!-- PDF PAGE 99 -->any of the Neighbouring people; My Lord is allowed by the Honourable Houſes of Parliament towards the main<g ref="char:EOLhyphen"/>taining of this his Army fiftie hundred pound a day.</p>
+            <p>On the Twelfth of September both the Honourable Houſes of Parliament having intelligence how that His Maje<g ref="char:EOLhyphen"/>ſtie with all his Cavaleers were billited at <hi>Cheſter,</hi> and had there endeavoured to for<g ref="char:EOLhyphen"/>tifie the Citie in a readineſſe to be againſt both the Honourable Houſes of Parlia<g ref="char:EOLhyphen"/>ment, and for the reſiſtance of my Lord of <hi>Eſſex</hi> and all his Forces, the Cavaleers doing much hurt and ſpoile, to the ter<g ref="char:EOLhyphen"/>rour and loſſe of that Countrey, there<g ref="char:EOLhyphen"/>fore the Honourable Houſes of Parlia<g ref="char:EOLhyphen"/>ment ſent unto his Excellencie for to ſend ſome of his Forces thither to ſtill the Cavaleers for the ſafety of the Countrey, which thing my Lord having intelligence of, went himſelfe perſonally with moſt of his Armey, onely leaving ſome
+<pb n="6" facs="tcp:156095:4"/>
+               <!-- PDF PAGE 100 -->for guard in ſuch places as neceſſity did require it; Foure <hi>Holland</hi> Shippes are come over with great ſtore of Ammunition and money for the ſervice of the King and Parliament, the men that were in them did amount to five hundred, with five pieces of Ordnance and Armour for two thouſand men, three hundred Muskets beſides Piſtolls, Caleevers, Carbines, and Dragoones, with ſixteene Barrels of Powder, who being landed, and having intelli<g ref="char:EOLhyphen"/>gence of my Lord of <hi>Eſſex</hi> his Intentions, mar<g ref="char:EOLhyphen"/>ched unto him, yeelding their Ammunition and money to his Lordſhips diſpoſing, and themſelves unto his Lordſhips protection, which being done, my Lord humbly thankt them, and tooke them to his tuition. There were certaine intentions of the Cavaleers diſcovered by Captaine <hi>Leg,</hi> who being taken in my Lord <hi>Brookes</hi> Regiment, upon condi<g ref="char:EOLhyphen"/>tion of pardon did divulge all their Intentions, of which the chiefe were theſe particulars:</p>
+            <p>Firſt, that ſome of the Cavalers that were in <hi>Le<g ref="char:EOLhyphen"/>ceſterſhire</hi> dib intend to joyne with certaine of <hi>Som<g ref="char:EOLhyphen"/>merſerſhire</hi> Cavaleers (for there were private Let<g ref="char:EOLhyphen"/>ters ſent to that purpoſe betweene them) for to goe to certaine neighbouring Villages, and to fire and burne the houſes, which things he no ſooner divulged but tha<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my Lord Brooks ſent ſome from his owne forces to remain and lye in watch in ſuch p<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as were w<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke of themſelves, and ſuch as he thought they might beſt attempt upon, and other of their exploi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s was to und<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rmine certaine places
+<pb n="7" facs="tcp:156095:4"/>
+               <!-- PDF PAGE 100 -->in Southern field, where they thought my Lord Brooks would have come with his forces, which be<g ref="char:EOLhyphen"/>ing known by this Captains relation, was avoyded, for my Lord ſent thither imediatly to ſee the truth of the matter, and found all things as he had ſaid; and in the ſaid undermining; was found great ſtore of powder layd under faggots and billets, and great wedges of Iron, all which my Lord cauſed to be carried away. Alſo Captaine <hi>Leg,</hi> related how the Cavaleers kept certaine balls in their pockets to fire houſes and towns withall, and how that many of them went under the Command of Captaine Calliford, (being a ſea Commander) towards the Iſle of Wight and the Iſle of Man, thinking to lye inwaite to ſeize upon the money that the honour<g ref="char:EOLhyphen"/>able houſe of Parliament pretended for the reliefe of the Iriſh Proteſtants, but notice thereof was preſently ſent to the Lord of <hi>Warwicke</hi> for the pre<g ref="char:EOLhyphen"/>vention of the fame, who ſent two or three of his ſmalleſt Veſſells to ſcowre thoſe places, Another of their pretended projects for their obtaining of money, was to ſeaze upon certaine Cloathiers that did deale in thoſe parts, bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſaid Clothirs being once before robed by thoſe Cavaleers, came ſo well Armed againſt them, that at their firſt mee<g ref="char:EOLhyphen"/>ting, that the Caveleers were glad to fly, leaving 1. or 2. of their fellowes to be ſlaine in the encoun<g ref="char:EOLhyphen"/>ter; newes was brought from my Lord of Holland of the taking amongſt the Caveleers a Jeſuiticall Prieſt.</p>
+         </div>
+         <div type="account_of_a_conspiracy">
+            <pb n="8" facs="tcp:156095:5"/>
+            <!-- PDF PAGE 101 -->
+            <head>The Relation of a late <hi>Conſpiracie</hi> uſed for the taking of the Magazine of <hi>HULL.</hi>
+            </head>
+            <p>THe Cavaleers having divers times attempted to take <hi>Hull,</hi> and finding ſo many repulſes by Sir <hi>Iohn Ho<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ham</hi> and his Souldiers, now thinking it beſt to make no <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urther attempt upon ſo unvanquiſhable a peece with o<g ref="char:EOLhyphen"/>pen aſſault but fall to underminings and treachery. There<g ref="char:EOLhyphen"/>fore he<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ring of certaine labouring men that Sir <hi>John Ho<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>m</hi> had imployed for the better defence of the City to raiſe certaine ditche<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for the convayance of the Water<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out of the mar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h grounds, went to them, thinking to have bribed and fee'd them to make certaine ſluces in the dit<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hes, with ſuch convayances that being opened the water might <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſh upon the City, thinking that by this Plot Sir <hi>
+                  <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>
+               </hi> for the ſafety of his perſon, muſt have come out <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> forces to a pitch-field, and there being o<g ref="char:EOLhyphen"/>vercom<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> and he <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> againe <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, they might have ſafe <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the City, the labouring men hearing of this propounded by th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cavaleers Under tooke the perform<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>y they ſhould be rewarded before hand<g ref="char:punc">▪</g> which was g<gap reason="illegible" extent="6+ letters">
+                  <desc>••••••…</desc>
+               </gap>d unto them, and when they had their full reward, they f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll the cleane contrary way to worke, and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that being opened the wa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that had determined to be in the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the  Towne in exp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> But what they met was a deluge of water that did ſo <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them<g ref="char:punc">▪</g> that they were quickly faine to <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> like fools as they came, without any fur<g ref="char:EOLhyphen"/>ther <gap reason="illegible" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap>ing the Towne.</p>
+            <pb n="8" facs="tcp:156095:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 102 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
